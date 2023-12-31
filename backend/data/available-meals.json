@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "맥 앤 치즈",
+    "price": "11000",
+    "description": "크리미한 체다 치즈와 완벽하게 익힌 마카로니를 섞고 바삭한 빵가루를 얹었습니다. 클래식한 편안함!",
+    "image": "images/mac-and-cheese.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "마르게리타 피자",
+    "price": "13000",
+    "description": "얇고 바삭한 크러스트에 신선한 모짜렐라, 토마토, 바질을 얹은 클래식 피자!",
+    "image": "images/margherita-pizza.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "시저 샐러드",
+    "price": "9000",
+    "description": "시저 드레싱에 버무린 로메인 양상추에 크루통과 파마산 부스러기를 얹은 요리!",
+    "image": "images/caesar-salad.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "까르보나라 스파게티",
+    "price": "12000",
+    "description": "달걀노른자, 페코리노 치즈, 판체타, 후추로 만든 크리미한 소스를 곁들인 알 덴테 스파게티입니다!",
+    "image": "images/spaghetti-carbonara.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "채소 버거",
+    "price": "10000",
+    "description": "양상추, 토마토, 톡 쏘는 소스를 곁들인 통곡물 번 위에 육즙이 풍부한 채소 패티를 얹어 제공합니다!",
+    "image": "images/veggie-burger.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "그릴드 치킨 샌드위치",
+    "price": "12000",
+    "description": "구운 번 위에 아보카도, 베이컨, 양상추, 허니 머스터드를 곁들인 부드러운 닭가슴살 구이!",
+    "image": "images/grilled-chicken-sandwich.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "스테이크 튀김",
+    "price": "18000",
+    "description": "기호에 맞게 조리한 육즙이 풍부한 스테이크에 바삭한 황금 감자튀김과 허브 버터를 곁들여 드세요!",
+    "image": "images/steak-frites.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "스시 롤 플래터",
+    "price": "16000",
+    "description": "캘리포니아, 스파이시 참치, 장어 아보카도 등 다양한 종류의 신선한 스시 롤이 준비되어 있습니다!",
+    "image": "images/sushi-roll-platter.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "치킨 커리",
+    "price": "14000",
+    "description": "진하고 향긋한 커리 소스에 끓인 부드러운 닭고기 조각을 바스마티 라이스와 함께 제공합니다!",
+    "image": "images/chicken-curry.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "비건 부다볼",
+    "price": "12000",
+    "description": "퀴노아, 구운 채소, 아보카도, 타히니 드레싱이 가득한 든든한 한 그릇!",
+    "image": "images/vegan-buddha-bowl.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "해산물 빠에야",
+    "price": "20000",
+    "description": "사프란이 들어간 쌀, 새우, 홍합, 초리소가 들어간 스페인 별미입니다!",
+    "image": "images/seafood-paella.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "팬케이크 스택",
+    "price": "9000",
+    "description": "폭신한 팬케이크를 높이 쌓고 메이플 시럽을 뿌린 후 신선한 베리를 얹은 요리입니다!",
+    "image": "images/pancake-stack.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "미소 라면",
+    "price": "13000",
+    "description": "된장국물, 부드러운 돼지고기, 반숙 달걀, 파를 곁들인 따뜻한 라멘 한 그릇입니다!",
+    "image": "images/miso-ramen.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "비프 타코",
+    "price": "10000",
+    "description": "부드러운 또띠아 3개에 양념 소고기, 신선한 살사, 치즈, 사워 크림을 가득 채웠습니다!",
+    "image": "images/beef-tacos.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "초콜릿 브라우니",
+    "price": "6000",
+    "description": "바닐라 아이스크림과 초콜릿 소스를 한 스쿱 얹은 진하고 폭신한 브라우니입니다!",
+    "image": "images/chocolate-brownie.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "랍스터 비스크",
+    "price": "15000",
+    "description": "랍스터 육수와 향긋한 야채, 브랜디로 만든 크리미한 수프입니다!",
+    "image": "images/lobster-bisque.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "버섯 리조또",
+    "price": "14,000",
+    "description": "야생 버섯을 넣고 파마산으로 마무리한 크리미한 아르보리오 라이스!",
+    "image": "images/mushroom-risotto.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "가지 파마산",
+    "price": "12000",
+    "description": "빵가루를 입힌 가지, 마리나라 소스, 녹인 모차렐라 치즈와 파마산 치즈를 층층이 쌓아 올렸습니다!",
+    "image": "images/eggplant-parmesan.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "레몬 치즈 케이크",
+    "price": "7000",
+    "description": "바삭한 비스킷 베이스에 새콤한 레몬 향이 가미된 크리미한 치즈 케이크입니다!",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "팔라펠 랩",
+    "price": "9000",
+    "description": "바삭한 팔라펠을 따뜻한 피타에 싸서 양상추, 토마토, 타히니 소스를 곁들인 요리입니다!",
+    "image": "images/falafel-wrap.jpg"
+  }
+]
